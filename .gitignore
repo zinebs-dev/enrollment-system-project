@@ -1,0 +1,20 @@
+# Maven - fichiers compilés
+target/
+*.class
+*.jar
+*.war
+
+# Eclipse
+.classpath
+.project
+.settings/
+.factorypath
+bin/
+
+# Spring Boot
+*.log
+application-local.properties
+
+# OS Windows
+Thumbs.db
+desktop.ini
